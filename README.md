@@ -12,4 +12,5 @@ This includes:
 ![Example usage](https://github.com/MarkYHZhang/cleantext/blob/master/readme/example.png "Example usage")
 
 ## TODOs
+- [ ] Custom censor dictionary support
 - [ ] Custom word splitter
