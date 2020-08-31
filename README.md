@@ -9,7 +9,7 @@ This includes:
 * more!
 
 ## Example usage
-![Example usage](https://github.com/MarkYHZhang/cleantext/blob/master/readme/example.jpg "Example usage")
+![Example usage](https://github.com/MarkYHZhang/cleantext/blob/master/readme/example.png "Example usage")
 
 ## TODOs
 - [ ] Custom word splitter
