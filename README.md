@@ -1,6 +1,6 @@
-# CleanText
+# ProfanityDrain
 
-CleanText is a python text filteration library that is able to handle many tricky scenarios where traditional textual profanity filters fail.
+ProfanityDrain is a python text filteration library that is able to handle many tricky scenarios where traditional textual profanity filters fail.
 
 This includes:
 * Adding abnormal delimiters between texts. e.g. "h_e_llo the--r-e"
@@ -9,7 +9,7 @@ This includes:
 * more!
 
 ## Example usage
-![Example usage](https://github.com/MarkYHZhang/cleantext/blob/master/readme/example.png "Example usage")
+![Example usage](https://github.com/MarkYHZhang/profanitydrain/blob/master/readme/example.png "Example usage")
 
 ## TODOs
 - [ ] Custom censor dictionary support
