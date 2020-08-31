@@ -8,6 +8,8 @@ This includes:
 * Mixed in emojis. e.g. "L👏🏼i👏🏼k👏🏼e T👏🏼h👏🏼i👏🏼s"
 * more!
 
+By default it is performing selective filtering, where, only parts of the input that should be censored is censored while keeping all other parts of the text in its original form.
+
 ## Example usage
 ![Example usage](https://github.com/MarkYHZhang/profanitydrain/blob/master/readme/example.png "Example usage")
 
