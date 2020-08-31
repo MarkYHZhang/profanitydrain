@@ -4,7 +4,7 @@ from collections import deque
 import tokenizer
 import utils
 
-class CleanText:
+class ProfanityDrain:
 
     DEFAULT_CENSORED: set = {
         "fuck",
@@ -75,7 +75,7 @@ class CleanText:
             ptr += 1
 
 
-    def clean(self, text: str) -> str:
+    def censor(self, text: str) -> str:
         # restoration order must be reverse of the order below
         no_delimiters_text, delimiters = self.__delimiter_filter(text)
         normalized_text, accents = self.__accent_filter(no_delimiters_text)
