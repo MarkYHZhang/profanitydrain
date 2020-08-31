@@ -10,7 +10,7 @@ This includes:
 
 By default it performs selective filtering, where, only parts of the input that should be censored is censored while keeping all other parts of the text in its original form.
 
-It is understood that efficiency is crucial for text filteration system, as of yet, ProfanityDrain has a complexity that is upper bounded by O(10n) where n is the length of the input string. It is within plans to actively reduce the complexity.
+It is understood that efficiency is crucial for text filteration system, as of yet, ProfanityDrain has a complexity that is upper bounded by O(10n) where n is the length of the input string. It is within plans to actively reduce its complexity.
 
 ## Example usage
 ![Example usage](https://github.com/MarkYHZhang/profanitydrain/blob/master/readme/example.png "Example usage")
