@@ -12,6 +12,7 @@ This includes:
 ![Example usage](https://github.com/MarkYHZhang/profanitydrain/blob/master/readme/example.png "Example usage")
 
 ## TODOs
+- [ ] Custom word splitter
+- [ ] Publish pip package
 - [ ] Custom censor dictionary support
 - [ ] Character substitution support
-- [ ] Custom word splitter
