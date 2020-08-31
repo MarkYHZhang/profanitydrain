@@ -13,4 +13,5 @@ This includes:
 
 ## TODOs
 - [ ] Custom censor dictionary support
+- [ ] Character substitution support
 - [ ] Custom word splitter
