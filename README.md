@@ -1,6 +1,6 @@
 # ProfanityDrain
 
-ProfanityDrain is a python text filteration library that is able to handle many tricky scenarios where traditional textual profanity filters fail.
+ProfanityDrain is a python text filtration library that is able to handle many tricky scenarios where traditional textual profanity filters fail.
 
 This includes:
 * Adding abnormal delimiters between texts. e.g. "h_e_llo the--r-e"
